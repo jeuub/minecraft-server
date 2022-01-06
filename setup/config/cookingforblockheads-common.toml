@@ -1,0 +1,15 @@
+cowJarEnabled = true
+#Range: > 0
+cowJarMilkPerTick = 1
+#Range: 0.0 ~ 1.7976931348623157E308
+compressedCowJarMilkMultiplier = 9.0
+sinkRequiresWater = false
+largeCounters = false
+disallowOvenAutomation = false
+#Range: 0.0 ~ 1.7976931348623157E308
+ovenFuelTimeMultiplier = 0.33000001311302185
+#Range: 0.0 ~ 1.7976931348623157E308
+ovenCookTimeMultiplier = 1.0
+ovenRequiresCookingOil = false
+showIngredientIcon = true
+

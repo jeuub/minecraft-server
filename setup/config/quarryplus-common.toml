@@ -1,0 +1,36 @@
+
+#QuarryPlus Setting
+[common]
+	#The top of Nether
+	#Range: -256 ~ 256
+	netherTop = 127
+	#debug mode
+	debug = false
+	#Spawner Controller Blacklist
+	spawnerBlacklist = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:area_effect_cloud", "minecraft:item", "minecraft:player"]
+	#no energy
+	noEnergy = false
+	#Whether quarry converts deepslate ore to normal ore.
+	convertDeepslateOres = false
+
+#QuarryPlus Machines. Set true to enable machine or item.
+[machines]
+	mini_quarry = true
+	spawner_controller = false
+	fuel_module_normal = true
+	exp_module = true
+	pump_module = true
+	remove_bedrock_module = false
+	replacer = false
+	replacer_module = false
+	quarry = true
+	adv_quarry = true
+	mover = true
+	placer_plus = true
+	adv_pump = true
+	mining_well = true
+	exp_pump = true
+	book_mover = false
+	workbench = true
+	pump_plus = true
+
